@@ -1,5 +1,5 @@
 #Regras de colaboração do site ilha valley 
-##People, vamos a uma regra básica
+##People, vamos a umas regras básicas
 
 - Sugestões = manda em issues, que vamos bater um papo gostoso :D
 - Melhorias e ajuste de itens do site = pull request, senão vai perder o controle das atividades
